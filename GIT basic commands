@@ -1,0 +1,42 @@
+
+1.) git config –global user.name “[name]”
+
+  git config –global user.email “[email address]”
+
+-This command sets the author name and email address respectively to be used with your commits.
+
+2.) git init [repository name]
+
+-This command is used to start a new repository.
+
+3.) git add [file]
+
+-This command adds a file to the staging area.
+
+4.) git add *
+
+-This command adds one or more to the staging area.
+
+5.) git commit -m “[ Type in the commit message]”
+
+-This command records or snapshots the file permanently in the version history.
+
+6.) git status
+
+-This command lists all the files that have to be committed.
+
+7.) git reset [file]
+
+-This command unstages the file, but it preserves the file contents.
+
+8.) git log
+
+-This command is used to list the version history for the current branch.
+
+9.) git branch
+
+-This command lists all the local branches in the current repository.
+
+10.) git stash pop
+
+-This command restores the most recently stashed files.
